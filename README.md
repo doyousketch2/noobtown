@@ -7,8 +7,9 @@ Completed:
 - [x] Calibration Screen  
 - [x] locate Minetest window, and raise focus  
 - [x] retrieve X, Y coordinates from screen  
-- [x] generate all craft-grid coords, given upper-left and lower-right corners
-- [x] generate all inventory coords, given a1 and h8 corners
+- [x] generate all craft-grid coords, given upper-left and lower-right corners  
+- [x] generate all inventory coords, given a1 and h8 corners  
+- [x] Python global hotkey hook, so you can tap \` to return  
 - [x] save data in Python's .pickle format  
 - [x] screenshot function  
 - [x] OCR the XYZ coords  
