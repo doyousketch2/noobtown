@@ -13,6 +13,7 @@ Completed:
 - [x] screenshot function  
 - [x] OCR the XYZ coords  
 - [x] PixelAt(x,y) color function  
+- [x] .pitch CSM to report tilt of camera view  
 
 To-do:  
 - [ ] create a simple scripting language  
@@ -22,5 +23,6 @@ To-do:
 + **1**-**8** will select that inventory slot  
 - [ ] add some kind of looping functionality  
 + letter followed by number will repeat that many times  
-- [ ] OCR >> movement >> OCR >> compare routine  
-- [ ] color of PixelAt(x,y) >> action >> color of PixelAt(x,y) >> compare    
+- [ ] OCR xyz >> movement >> OCR xyz >> compare routine  
+- [ ] color of PixelAt(x,y) >> action >> color of PixelAt(x,y) >> compare  
+- [ ] .pitch >> OCR >> .pitch >> compare camera view tilt  
