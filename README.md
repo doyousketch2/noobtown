@@ -16,10 +16,11 @@ Completed:
 
 To-do:  
 - [ ] create a simple scripting language  
--- **N**orth, **S**outh, **E**ast, **W**est  
--- **L**eft, **R**ight, **F**orward, **B**ackward  
--- **C**hop, **P**lace, look **U**p, look **D**own  
++ **N**orth, **S**outh, **E**ast, **W**est  
++ **L**eft, **R**ight, **F**orward, **B**ackward  
++ **C**hop, **P**lace, look **U**p, look **D**own  
++ **1**-**8** will select that inventory slot  
 - [ ] add some kind of looping functionality  
--- letter followed by number will repeat that many times  
++ letter followed by number will repeat that many times  
 - [ ] OCR >> movement >> OCR >> compare routine  
 - [ ] color of PixelAt(x,y) >> action >> color of PixelAt(x,y) >> compare    
