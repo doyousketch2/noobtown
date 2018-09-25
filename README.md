@@ -18,11 +18,11 @@ Completed:
 
 To-do:  
 - [ ] create a simple scripting language  
-+ **N**orth, **S**outh, **E**ast, **W**est  
-+ **L**eft, **R**ight, **F**orward, **B**ackward  
-+ **C**hop, **P**lace, look **U**p, look **D**own  
++ **N**orth,  **S**outh,  **E**ast,  **W**est  
++ **L**eft,  **R**ight,  **F**orward,  **B**ackward  
++ **C**hop,  **P**lace,  look **U**p,  look **D**own  
 + **1**-**8** will select that inventory slot  
-+ **J**ump, **+** Hold Shift  **-** Release Shift  
++ **J**ump,  **+** Hold Shift,  **-** Release Shift  
 + # comments  
 - [ ] add some kind of looping functionality  
 + letter followed by number will repeat that many times  
