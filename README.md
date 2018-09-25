@@ -13,7 +13,7 @@ Completed:
 - [x] save data in Python's .pickle format  
 - [x] screenshot function  
 - [x] OCR the XYZ coords  
-- [x] PixelAt(x,y) color function  
+- [x] RGB PixelAt(x,y) color function  
 - [x] .pitch CSM to report tilt of camera view  
 
 To-do:  
