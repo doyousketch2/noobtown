@@ -20,7 +20,7 @@ To-do:
 - [ ] create a simple scripting language  
 + **N**orth,  **S**outh,  **E**ast,  **W**est  
 + **L**eft,  **R**ight,  **F**orward,  **B**ackward  
-+ **C**hop,  **P**lace,  look **U**p,  look **D**own  
++ **C**hop,  **P**lace a block,  look **U**p,  look **D**own  
 + **1**-**8** will select that inventory slot  
 + **J**ump,  **H**old Shift,  **R**elease Shift  
 + # comments  
