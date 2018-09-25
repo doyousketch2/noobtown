@@ -22,7 +22,7 @@ To-do:
 + **L**eft,  **R**ight,  **F**orward,  **B**ackward  
 + **C**hop,  **P**lace,  look **U**p,  look **D**own  
 + **1**-**8** will select that inventory slot  
-+ **J**ump,  **+** Hold Shift,  **-** Release Shift  
++ **J**ump,  **H**old Shift,  **R**elease Shift  
 + # comments  
 - [ ] add some kind of looping functionality  
 + letter followed by number will repeat that many times  
