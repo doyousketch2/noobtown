@@ -1,6 +1,6 @@
 [![OpenSource](https://img.shields.io/badge/Open-Source-orange.svg)](https://github.com/doyousketch2)  [![PythonVersions](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)  [![License](https://img.shields.io/badge/license-AGPL-lightgrey.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)  [![Git.io](https://img.shields.io/badge/Git.io-fANWr-233139.svg)](https://git.io/fANWr) 
 
-**Noobtown**  --  automate builds in Minetest  
+**Noobtown**  --  Automate builds in Minetest  
 
 Completed:  
 - [x] Main Menu  
