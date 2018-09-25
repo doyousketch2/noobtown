@@ -24,5 +24,5 @@ To-do:
 - [ ] add some kind of looping functionality  
 + letter followed by number will repeat that many times  
 - [ ] OCR xyz >> movement >> OCR xyz >> compare routine  
-- [ ] color of PixelAt(x,y) >> action >> color of PixelAt(x,y) >> compare  
+- [ ] pixel RGB >> action >> pixel RGB >> compare if item's been placed / used  
 - [ ] .pitch >> OCR >> .pitch >> compare camera view tilt  
