@@ -26,3 +26,14 @@ To-do:
 - [ ] OCR xyz >> movement >> OCR xyz >> compare routine  
 - [ ] pixel RGB >> action >> pixel RGB >> compare if item's been placed / used  
 - [ ] .pitch >> OCR >> .pitch >> compare camera view tilt  
+
+
+`sudo pip3 install keyboard`  
+(or)  
+`sudo python3 -m pip install keyboard`  
+
+ended up importing keyboard instead of keybinder  
+better examples, can get it to run, but you have to use sudo...  
+`sudo ./noobtown`  
+(or)  
+`sudo python3 -m noobtown`  
