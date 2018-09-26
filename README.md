@@ -35,7 +35,7 @@ To-do:
 (or)  
 `sudo python3 -m pip install keyboard`  
 
-ended up importing keyboard instead of keybinder  
+ended up importing keyboard instead of keybinder for the hotkey.  
 better examples, can get it to run, but you have to use sudo...  
 
 `sudo ./noobtown`  
